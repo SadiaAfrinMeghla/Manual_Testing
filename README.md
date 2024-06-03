@@ -41,7 +41,7 @@ Mind mapping is used to visually organize information, representing the relation
 - **Description:** Mind maps illustrating the testing process, feature breakdowns, and test scenarios.
 - **Format:** Mind maps are created using [XMind/MindMeister] and exported as images/PDF.
 
- **Location:** [Assignment Directory](https://github.com/SadiaAfrinMeghla/Manual_Testing)
+ ##Location:** [Manual_Testing](https://github.com/SadiaAfrinMeghla/Manual_Testing)
 
 ## How to Use
 
