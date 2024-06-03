@@ -25,7 +25,6 @@ Test cases are designed to validate the functionality of the software applicatio
 
 Bug reports document the defects found during testing, providing detailed information for developers to understand and fix the issues.
 
-- **Location:** [Bug Reports Directory]([./BugReports](https://github.com/SadiaAfrinMeghla/Manual_Testing)
 - **Description:** Comprehensive bug reports with steps to reproduce, expected vs. actual results, and severity.
 - **Format:** Bug reports are documented in [Excel/CSV/Markdown] format.
 
@@ -33,7 +32,6 @@ Bug reports document the defects found during testing, providing detailed inform
 
 Acceptance criteria define the conditions that a software application must meet to be accepted by the end-user or client.
 
-- **Location:** [Acceptance Criteria Directory]([./AcceptanceCriteria](https://github.com/SadiaAfrinMeghla/Manual_Testing)
 - **Description:** Clear and concise acceptance criteria for various features and functionalities.
 - **Format:** Acceptance criteria are documented in [Markdown/Plain Text] format.
 
@@ -41,7 +39,6 @@ Acceptance criteria define the conditions that a software application must meet 
 
 Mind mapping is used to visually organize information, representing the relationships between different aspects of the testing process.
 
-- **Location:** [Mind Mapping Directory]([./MindMapping](https://github.com/SadiaAfrinMeghla/Manual_Testing)
 - **Description:** Mind maps illustrating the testing process, feature breakdowns, and test scenarios.
 - **Format:** Mind maps are created using [XMind/MindMeister] and exported as images/PDF.
 
