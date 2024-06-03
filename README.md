@@ -7,6 +7,9 @@ Welcome to the Manual Testing Repository. This repository contains a collection 
 - [Bug Reports](#bug-reports)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Mind Mapping](#mind-mapping)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 
 ## Introduction
