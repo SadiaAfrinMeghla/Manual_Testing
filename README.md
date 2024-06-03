@@ -17,7 +17,6 @@ Manual testing is a crucial part of the software development lifecycle. This rep
 ## Test Cases
 Test cases are designed to validate the functionality of the software application and ensure it meets the specified requirements.
 
-- **Location:** [Test Cases Directory](./TestCases)
 - **Description:** Detailed test cases covering various scenarios and functionalities.
 - **Format:** Test cases are documented in [Excel/CSV/Markdown] format.
 
@@ -42,6 +41,8 @@ Mind mapping is used to visually organize information, representing the relation
 - **Description:** Mind maps illustrating the testing process, feature breakdowns, and test scenarios.
 - **Format:** Mind maps are created using [XMind/MindMeister] and exported as images/PDF.
 
+ **Location:** [Assignment Directory](https://github.com/SadiaAfrinMeghla/Manual_Testing/tree/main/Assignment_Manual_Testing)
+- **Description:** Documents related to manual testing assignments.
 ## How to Use
 
 1. **Clone the Repository:**
