@@ -8,7 +8,6 @@ Welcome to the Manual Testing Repository. This repository contains a collection 
 - [Acceptance Criteria](#acceptance-criteria)
 - [Mind Mapping](#mind-mapping)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 
@@ -72,16 +71,13 @@ We welcome contributions to improve and expand this repository. If you would lik
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 
 For any questions or suggestions, please contact:
 
 - **Name:** Sadia Afrin Meghla
-- **Email:** [sadiameghlaa@gmail.com](mailto:sadiameghlaa@gmail.com)
+- **Email:** [sadiameghlaa@gmail.com](sadiameghlaa@gmail.com)
 - **LinkedIn:** [Sadia Afrin Meghla](http://www.linkedin.com/in/sadia-afrin-meghla)
 - **GitHub:** [SadiaAfrinMeghla](https://github.com/SadiaAfrinMeghla)
 
